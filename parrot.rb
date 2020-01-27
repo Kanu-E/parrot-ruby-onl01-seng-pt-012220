@@ -1,5 +1,5 @@
-def parrot (arg="Squawk!")
- puts arg
- return arg
+def parrot (bbb="Squawk!")
+ puts bbb
+ return bbb
 end
 
